@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-<title>register</title>
+	<title>register</title>
 </head>
 <body>
 	<h3>직원등록</h3>
